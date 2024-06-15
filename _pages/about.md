@@ -11,7 +11,7 @@ I am a Master's student in Electronic and Information Engineering at Shenzhen In
 
 Publications
 ======
-1. **Qian Huang**, Jiahui Huang, Weinong Fu. Adaptive Codomain Sampling for Accurate Surrogate Modeling. Accepted for publication in the 2024 International Joint Conference on Neural Networks (IJCNN 2024). 
+1. **Qian Huang**, Jiahui Huang, Weinong Fu. Adaptive Codomain Sampling for Accurate Surrogate Modeling. Accepted for publication in the 2024 International Joint Conference on Neural Networks (IJCNN 2024). CCF-C. [preprint],[video].
 
 
 1. **Qian Huang**, Jiahui Huang, Weinong Fu. Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search. In 2023 IEEE 6th Student Conference on Electrical Machines and Systems (SCEMS 2023). [DOI](https://ieeexplore.ieee.org/document/10379235).

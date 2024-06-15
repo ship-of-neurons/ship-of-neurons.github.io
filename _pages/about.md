@@ -11,4 +11,11 @@ My name is Huang Qian. I am a Master's student in Electronic and Information Eng
 
 Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form.
+
+1. Adaptive Codomain Sampling for Accurate Surrogate Modeling
+1. Acceleration of Electric Machine Structure optimization Using Performance Classifier Enhanced Evolutionary Search
+
+
+Teaching
+======
+Served as a TA for the "Machine Learning and Artificial Intelligence" Laboratory Course at Shenzhen University of Advanced Technology (深圳理工大学) in the Spring 2023, where I designed all the lab manuals, created all example code, and handled student Q&A.

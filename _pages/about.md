@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ---
-
-I am a Master's student in Electronic and Information Engineering at [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences](https://www.siat.ac.cn). My research interest lies in the intersection of AI and physics.
+I am a Master's student majoring in Electronic and Information Engineering at [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences](https://www.siat.ac.cn). My research interest lies in the intersection of AI and physics.
 
 Contact Info: qianhuang10 [at] outlook.com
 

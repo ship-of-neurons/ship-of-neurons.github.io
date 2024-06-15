@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student in Electronic and Information Engineering at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. My research interest lies in the intersection of AI and physics.
 
-Concat: qianhuang10 [at] outlook.com
+Contact Info: qianhuang10 [at] outlook.com
 
 Publications
 ======

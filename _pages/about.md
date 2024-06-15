@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Introduction
+My name is Huang Qian. I am a Master's student in Electronic and Information Engineering at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. My research interest lies in the intersection of AI and physics.
 
 Publications
 ======

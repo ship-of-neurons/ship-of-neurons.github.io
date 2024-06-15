@@ -12,7 +12,7 @@ I am a Master's student in Electronic and Information Engineering at [Shenzhen I
 Contact Info: qianhuang10 [at] outlook.com
 
 Publications
-======
+---
 **Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
 <small>**Qian Huang**, Jiahui Huang, Weinong Fu<br></small>
 <small>International Joint Conference on Neural Networks (IJCNN), 2024. (CCF-C). Accepted.</small>
@@ -24,5 +24,5 @@ Publications
 
 
 Teaching
-======
+---
 I served as a TA for the "Machine Learning and Artificial Intelligence" Laboratory Course at Shenzhen Institute of Technology (深圳理工大学) in Spring 2023, where I designed all the lab manuals, created all example code, and handled student Q&A.

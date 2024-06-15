@@ -13,14 +13,14 @@ Contact Info: qianhuang10 [at] outlook.com
 
 Publications
 ======
-1. **Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
-#### **Qian Huang**, Jiahui Huang, Weinong Fu<br>
-#### International Joint Conference on Neural Networks (IJCNN), 2024. (CCF-C). Accepted.    
+**Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
+##### **Qian Huang**, Jiahui Huang, Weinong Fu<br>
+##### International Joint Conference on Neural Networks (IJCNN), 2024. (CCF-C). Accepted.    
 
 
-2. **Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search**<br>
-#### **Qian Huang**, Jiahui Huang, Weinong Fu<br>
-#### IEEE Student Conference on Electrical Machines and Systems (SCEMS), 2023.   
+**Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search**<br>
+##### **Qian Huang**, Jiahui Huang, Weinong Fu<br>
+##### IEEE Student Conference on Electrical Machines and Systems (SCEMS), 2023.   
 
 
 Teaching

@@ -25,4 +25,4 @@ Publications
 
 Teaching
 ---
-I served as a TA for the "Machine Learning and Artificial Intelligence" Laboratory Course in Spring 2023, where I designed all the lab manuals, created all example code, and handled student Q&A.
+I served as a TA for the "Machine Learning and Artificial Intelligence" Laboratory Course in Spring 2023, where I designed all the lab manuals and code, and handled student Q&A.

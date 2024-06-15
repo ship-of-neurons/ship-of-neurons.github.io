@@ -16,7 +16,7 @@ Publications
 **Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
 **Qian Huang**, Jiahui Huang, Weinong Fu<br>
 International Joint Conference on Neural Networks (IJCNN), 2024. (CCF-C). Accepted.    
-
+<font size="1">1号字 最小</font>
 
 **Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search**<br>
 **Qian Huang**, Jiahui Huang, Weinong Fu<br>

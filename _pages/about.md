@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student majoring in Computer Technology at [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences](https://www.siat.ac.cn). My research interest lies in the intersection of AI and physics.
 
-Contact Info: qianhuang10 [at] outlook.com
+Contact Info: q.huang [at] siat.ac.cn
 
 Publications
 ---

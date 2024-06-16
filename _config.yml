@@ -12,7 +12,7 @@ title                    : "Qian Huang (黄倩)"
 title_separator          : "-"
 name                     : &name "Qian Huang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ship-of-neurons.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ship-of-neurons.github.io"
 

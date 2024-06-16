@@ -13,12 +13,12 @@ Contact Info: q.huang [at] siat.ac.cn
 
 Publications
 ---
-**Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
+1. **Adaptive Codomain Sampling for Accurate Surrogate Modeling**<br>
 <small>**Qian Huang**, Jiahui Huang, Weinong Fu<br></small>
 <small>International Joint Conference on Neural Networks (IJCNN), 2024. (CCF-C). Accepted.</small>
 
 
-**Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search**<br>
+1. **Acceleration of Electric Machine Structure Optimization Using Performance Classifier Enhanced Evolutionary Search**<br>
 <small>**Qian Huang**, Jiahui Huang, Weinong Fu<br></small>
 <small>IEEE Student Conference on Electrical Machines and Systems (SCEMS), 2023.</small> 
 
